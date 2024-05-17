@@ -61,27 +61,10 @@ pairs_final = pd.DataFrame(pairs_final)
 pairs_final.to_clipboard()
 
 '''
-df.index[2]
+
+MODIFICADO POR JP
 
 
-pairs_final
-
-
-print(pairs)
-pairs[5][1]
-
-print (len(pairs))
-nd = time.time()
-print (nd - st)
-
-6+6
-
-
-import numpy as np
-
-listt = []
-
-# Create a 2D numpy array
 arr = np.array([[0,158.99,90.28,59.15,174.31,327.17,169.72],
     [158.99,0,77.26,181.22,54.59,180.9,34.55],
     [90.28,77.26,0,129.99,84.08,236.95,80.52],
